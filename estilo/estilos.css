@@ -1,0 +1,26 @@
+header{
+    background-color: white;
+}
+body{
+    background-color: #FFCBC1;
+}
+
+#menu ul{
+    padding: 0;
+}
+
+#menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 100px;
+    font-size: 33px; 
+   
+}
+#menu li{
+    display: inline;
+   
+}
+
+
+
+
